@@ -9,4 +9,4 @@
 
  >>>> 安装完成，，建议看一下mongoose的[api](http://mongoosejs.com/);<br/>
 
- >>>>express建议看一下[官网](http://www.expressjs.com.cn/4x/api.html)<br/>
+ >express建议看一下[官网](http://www.expressjs.com.cn/4x/api.html)<br/>
