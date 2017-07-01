@@ -11,14 +11,14 @@
 
  >express建议看一下[官网](http://www.expressjs.com.cn/4x/api.html)<br/>
 
- #####启动开发
+ ##### 启动开发
   ```
   one step   npm install
 
   two step   mongod(如果你不能启动请看上面)
   three step  npm run dev
   ``` 
-####代码解析和项目规划
+##### 代码解析和项目规划
 
 目前是想到什么写什么，，，所以很不完善陆续会完善下去，如果你感兴趣可以有事没事过来看一下，说不定那一天会有惊喜的
 
