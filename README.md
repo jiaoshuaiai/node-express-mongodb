@@ -8,7 +8,7 @@
  >mongodb的安装 <br/>
 具体安装请看我的[一篇博客](http://blog.csdn.net/zhanglongdream/article/details/70231261)启动看[这篇](http://blog.csdn.net/zhanglongdream/article/details/72911949);<br/>
 >安装完成，，建议看一下mongoose的[api](http://mongoosejs.com/);<br/>
-
+>建议安装一个可视化工具我使用的[robomongo](https://github.com/Studio3T/robomongo)
  >express建议看一下[官网](http://www.expressjs.com.cn/4x/api.html)<br/>
 
  ##### 启动开发
@@ -26,4 +26,8 @@
 最近会新增 登陆IP记录 ， 修改密码 ， 统计数据（包括文章统计，流量统计等等）,文章表示，类别管理等等。如果感兴趣可以一起交流完善。。。
 
 怎么说呢其实使用express挺简单的，困难的是后期的优化，，这个项目适合初学者，因为还有很多不完善的地方，而且还没来得急进行压力测试，gzip压缩，好多好多，，，以后有时间会一一完善的，但是对于入门人员来说这个已经可以了。。。
+
+##如果你已经下载了后端接口建议别闲麻烦把前端页面也下载一下，要不然怎么搞啊，，，
+
+#最后麻烦动一下小小的鼠标点击一下右上角的star，，给点动力呗。。。
 
